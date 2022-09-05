@@ -3,9 +3,10 @@
 
     <!-- HomeActivity -->
 
+    <string name="home_activity_note">^^</string>
     <string name="home_activity_title">Moyenne générale</string>
-    <string name="home_activity_btn_1">Semestre 1</string>
-    <string name="home_activity_btn_2">Semestre 2</string>
+    <string name="home_activity_btn_1">SEMESTRE 1</string>
+    <string name="home_activity_btn_2">SEMESTRE 2</string>
     <string name="home_activity_column_1">UE</string>
     <string name="home_activity_column_2">Coefficient</string>
     <string name="home_activity_column_3">Moyenne</string>
