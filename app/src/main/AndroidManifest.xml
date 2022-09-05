@@ -14,6 +14,9 @@
         android:theme="@style/Theme.Moyenne_like"
         tools:targetApi="31">
         <activity
+            android:name=".SubjectActivity"
+            android:exported="false" />
+        <activity
             android:name=".UEActivity"
             android:exported="false"
             android:label="@string/title_activity_ueactivity"

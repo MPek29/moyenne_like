@@ -27,7 +27,7 @@
     <!-- SubjectActivity -->
 
     <string name="subject_activity_title">Anglais</string>
-    <string name="subject_activity_column_1">@string/home_activity_column_1</string>
+    <string name="subject_activity_column_1">Note</string>
     <string name="subject_activity_column_2">@string/home_activity_column_2</string>
     <string name="subject_activity_column_1_default">@string/home_activity_column_1_default</string>
     <string name="subject_activity_column_2_default">@string/home_activity_column_2_default</string>
