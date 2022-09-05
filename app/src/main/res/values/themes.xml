@@ -10,7 +10,7 @@
         <item name="colorSecondaryVariant">@color/grey</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
     </style>
 
     <style name="DefaultTextStyle">
@@ -26,5 +26,14 @@
     <style name="paragraphTextStyle" parent="DefaultTextStyle">
         <item name="android:textSize">18sp</item>
     </style>
+
+    <style name="Theme.Moyenne_like.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Moyenne_like.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Moyenne_like.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
 </resources>
