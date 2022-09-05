@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">moyenne_like</string>
+
+    <!-- HomeActivity -->
+
+    <string name="home_activity_title">Moyenne générale</string>
+    <string name="home_activity_btn_1">Semestre 1</string>
+    <string name="home_activity_btn_2">Semestre 2</string>
+    <string name="home_activity_column_1">UE</string>
+    <string name="home_activity_column_2">Coefficient</string>
+    <string name="home_activity_column_3">Moyenne</string>
+    <string name="home_activity_column_1_default">A</string>
+    <string name="home_activity_column_2_default">4</string>
+    <string name="home_activity_column_3_default">15</string>
+
+    <!-- UEActivity -->
+
+    <string name="ue_activity_title">Mes unités d\'enseignement</string>
+    <string name="ue_activity_column_1">@string/home_activity_column_1</string>
+    <string name="ue_activity_column_2">@string/home_activity_column_2</string>
+    <string name="ue_activity_column_3">@string/home_activity_column_3</string>
+    <string name="ue_activity_column_1_default">@string/home_activity_column_1_default</string>
+    <string name="ue_activity_column_2_default">@string/home_activity_column_2_default</string>
+    <string name="ue_activity_column_3_default">@string/home_activity_column_3_default</string>
+
+    <!-- SubjectActivity -->
+
+    <string name="subject_activity_title">Anglais</string>
+    <string name="subject_activity_column_1">@string/home_activity_column_1</string>
+    <string name="subject_activity_column_2">@string/home_activity_column_2</string>
+    <string name="subject_activity_column_1_default">@string/home_activity_column_1_default</string>
+    <string name="subject_activity_column_2_default">@string/home_activity_column_2_default</string>
+
+    <!-- InfoPopup -->
+
+    <string name="info_popup_title">Information</string>
+    <string name="info_popup_paragraph">Consulter les différentes moyennes en cliquant dessus
+        Ajouter une matière, note ou unité d’enseignement avec le bouton +
+        Modifier une unité d’enseignement ou note en cliquant dessus
+        Supprimer une matière, note ou unité d’enseignement en balayant à gauche</string>
+
+    <string name="info_popup_btn">D\'ACCORD</string>
 </resources>
