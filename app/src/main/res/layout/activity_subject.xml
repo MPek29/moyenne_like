@@ -12,6 +12,7 @@
         android:layout_height="80dp"
         android:background="@color/lightRed"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -20,9 +21,9 @@
             style="@style/SubtitleTextStyle"
             android:layout_width="250dp"
             android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/default_margin"
             android:text="@string/subject_activity_title"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toStartOf="@+id/imageView2"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -34,7 +35,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/ic_edit"
-            app:tint="@color/white"/>
+            app:tint="@color/white" />
 
         <ImageView
             android:id="@+id/imageView2"

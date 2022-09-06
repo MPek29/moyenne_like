@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/drawable/ic_bar.xml" value="0.196" />
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/drawable/ic_edit.xml" value="0.196" />
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/drawable/ic_info.xml" value="0.196" />
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/drawable/ic_trash.xml" value="0.196" />
         <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/layout/activity_main.xml" value="0.300561797752809" />
-        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/layout/activity_subject.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/layout/activity_subject.xml" value="0.25" />
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/layout/popup_info.xml" value="0.25" />
+        <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/layout/popup_registrer.xml" value="0.22" />
         <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/layout/recycler_row.xml" value="0.33" />
         <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/layout/recycler_row_2.xml" value="0.2598958333333333" />
         <entry key="..\:/Users/Florian/moyenne_like/app/src/main/res/layout/ue_eactivity.xml" value="0.25" />

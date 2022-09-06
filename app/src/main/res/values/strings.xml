@@ -35,19 +35,21 @@
     <!-- InfoPopup -->
 
     <string name="info_popup_title">Information</string>
-    <string name="info_popup_paragraph">Consulter les différentes moyennes en cliquant dessus
-        Ajouter une matière, note ou unité d’enseignement avec le bouton +
-        Modifier une unité d’enseignement ou note en cliquant dessus
-        Supprimer une matière, note ou unité d’enseignement en balayant à gauche</string>
+    <string name="info_popup_paragraph">Consulter les différentes moyennes en cliquant dessus\n\nAjouter une matière, note ou unité d’enseignement avec le bouton +\n\nModifier une unité d’enseignement ou note en cliquant dessus\n\nSupprimer une matière, note ou unité d’enseignement en balayant à gauche</string>
 
     <string name="info_popup_btn">D\'ACCORD</string>
-    <string name="title_activity_ueactivity">UEActivity</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- RegisterPopup -->
+
+    <string name="register_popup_title">Ajouter</string>
+
+    <string name="register_entry_note">Note</string>
+    <string name="register_divider">/</string>
+    <string name="register_entry_divider">20</string>
+
+    <string name="register_entry_coefficient">Coefficient</string>
+    <string name="register_entry_coefficient_default">1</string>
+
+    <string name="register_popup_btn_1">ANNULER</string>
+    <string name="register_popup_btn_2">AJOUTER</string>
 </resources>
